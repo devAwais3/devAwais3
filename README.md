@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
 <h3 align="center">An Emerging Full-Stack Web Developer</h3>
 
-<img align="right" alt="coding" width="390" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952uwrxow3m7qoiivad7jlx80rrmg1f9wfs5l1dhrqh&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="390" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devawais3&label=Profile%20views&color=0e75b6&style=flat" alt="devawais3" /> </p>
 
