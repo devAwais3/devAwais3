@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Web Development **Bootstrap, HTML, CSS etc**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/awais-web-dev/](https://www.linkedin.com/in/awais-web-dev/)
+- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/awais-web-dev/)
 
 - 💬 Ask me about **How to turn ideas into stunning websites!**
 
