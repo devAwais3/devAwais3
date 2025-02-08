@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devawais3&label=Profile%20views&color=0e75b6&style=flat" alt="devawais3" /> </p>
 
+- 🔭 Currently Studying Computer Science **C/C++, AI, DSA C++ etc**
 - 🌱 I’m currently learning Web Development **Bootstrap, HTML, CSS etc**
 
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/awais-web-dev/)
