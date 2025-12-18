@@ -2,17 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devawais3&label=Profile%20views&color=0e75b6&style=flat" alt="devawais3" /> </p>
 
-- 🔭 Currently Studying Computer Science **C/C++, AI, DSA C++ etc**
-- 🌱 I’m currently learning Web Development **Bootstrap, HTML, CSS etc**
-
-- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/awais-web-dev/)
-
-- 💬 Ask me about **How to turn ideas into stunning websites!**
-
+- 🔭 Undergraduate Computer Science Student
 - 📫 How to reach me **awaisyousafzai753@gmail.com**
-
-- ⚡ Fun fact **I debug more than I sleep!😂**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/awais-web-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/awais-web-dev/" height="30" width="40" /></a>
